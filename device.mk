@@ -213,10 +213,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     power.msm8994
 
-# Ramdisk
 PRODUCT_PACKAGES += \
-    init.qcom.bt.sh \
-    init.zram.sh
+    init.qcom.bt.sh
 
 PRODUCT_PACKAGES += \
     fstab.qcom \
