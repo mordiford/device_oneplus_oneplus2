@@ -4,8 +4,8 @@
     "target_path": "device/oppo/common"
   },
   {
-    "repository": "LineageOS/android_kernel_oneplus_msm8994",
-    "target_path": "kernel/oneplus/msm8994"
+    "repository": "saki-op2-kernel",
+    "target_path": "kernel/oneplus/saki"
   },
   {
     "repository": "LineageOS/android_packages_resources_devicesettings",
